@@ -1,5 +1,6 @@
-Bollywood Movies Data Analysis: A Comprehensive Study
-Abstract:
+**Bollywood Movies Data Analysis: A Comprehensive Study**
+
+**Abstract:**
 This research paper explores the dataset of Bollywood movies to understand various trends, patterns, and factors that influence a movie's success. Using data analysis and visualization techniques, we examine aspects such as box office collections, release time trends, and genre distributions.
 
 **1. Introduction**
